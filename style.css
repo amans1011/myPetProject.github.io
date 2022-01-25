@@ -17,23 +17,24 @@ h2 {
   color: #ff6347;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 h3 {
   color: #800080;
   font-family: 'Sedgwick Ave', cursive;
-  margin-top: 100px;
+  margin-top: 30px;
 
 }
 a {
   text-decoration: none;
-  margin-top: 100px;
 }
 
 .image img{
   border-radius: 20%;
   box-shadow: 0 0 20px black;
-  margin-top: 100px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 .image img:hover{
